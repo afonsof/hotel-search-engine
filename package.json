@@ -1,0 +1,18 @@
+{
+    "name": "hotel-search-engine",
+    "version": "0.1.0",
+    "description": "Hotel Search Engine",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "4.1.1",
+        "body-parser": "~1.0.0",
+        "errorhandler": "~1.0.0",
+        "method-override": "~1.0.0",
+        "morgan": "~1.0.0",
+        "sequelize": "~2.0.0-beta.2",
+        "sqlite3": "~2.1.5",
+        "lodash": "~2.4.1"
+    }
+}
